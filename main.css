@@ -1,0 +1,27 @@
+        .main {
+			margin :20px 400px 400px 400px ;
+			
+		}
+		.title{
+         margin-bottom: 10px;
+         text-align:center;
+         width: 210px;
+		 background-color :#98FB98 ;
+         color: red;
+         border: solid black 2px;
+         }
+ 
+         input[type="button"]
+         {
+         background-color:#87CEFA;
+         color: black;
+         border: solid black 2px;
+         width:100%
+         }
+ 
+         input[type="text"]
+         {
+         background-color:white;
+         border: solid black 2px;
+         width:100%
+		 }
